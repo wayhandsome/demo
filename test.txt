@@ -1,6 +1,10 @@
 test !!!
 base dev branch !!
-new content with bug branch !
+new content with bug branch!
 add with master branch !
 add a with master branch !i
 add b on master branch !
+=======
+new content with bugi
+add a with bug
+
